@@ -4,7 +4,7 @@ using System.Reactive.Linq;
 using System.Reactive.Subjects;
 using System.Windows.Forms;
 
-namespace zorgoz.Nlog4LinqPad
+namespace NLog4LinqPad
 {
 	internal static class PanelHelper
 	{

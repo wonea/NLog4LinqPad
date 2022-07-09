@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace zorgoz.Nlog4LinqPad
+namespace NLog4LinqPad
 {
 	[Target("LinqPadHtml")]
 	internal sealed class LinqPadHtmlTarget : TargetWithLayout

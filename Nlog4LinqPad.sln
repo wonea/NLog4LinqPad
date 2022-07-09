@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zorgoz.Nlog4LinqPad", "zorgoz.Nlog4LinqPad\zorgoz.Nlog4LinqPad.csproj", "{671FD4ED-C6E2-4210-B964-5C0F0D4E09AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog4LinqPad", "NLog4LinqPad\NLog4LinqPad.csproj", "{671FD4ED-C6E2-4210-B964-5C0F0D4E09AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsControlLibrary1", "WinFormsControlLibrary1\WinFormsControlLibrary1.csproj", "{6812FC39-7785-4592-81A5-329A357D259A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{671FD4ED-C6E2-4210-B964-5C0F0D4E09AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671FD4ED-C6E2-4210-B964-5C0F0D4E09AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{671FD4ED-C6E2-4210-B964-5C0F0D4E09AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6812FC39-7785-4592-81A5-329A357D259A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6812FC39-7785-4592-81A5-329A357D259A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6812FC39-7785-4592-81A5-329A357D259A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6812FC39-7785-4592-81A5-329A357D259A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

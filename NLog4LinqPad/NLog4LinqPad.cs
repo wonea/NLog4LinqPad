@@ -2,7 +2,7 @@
 using NLog.Config;
 using NLog.Targets;
 
-namespace zorgoz.Nlog4LinqPad
+namespace NLog4LinqPad
 {
 	/// <summary>
 	/// Log levels enumeration as NLog levels are instances of a class

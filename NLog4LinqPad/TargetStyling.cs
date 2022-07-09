@@ -2,7 +2,7 @@
 using NLog;
 using System.Collections.Generic;
 
-namespace zorgoz.Nlog4LinqPad
+namespace NLog4LinqPad
 {
 	/// <summary>
 	/// Class holds styling information for the WebBrowser control target
